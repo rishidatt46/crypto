@@ -8,7 +8,7 @@ import { Provider } from 'react-redux';
 import store from './app/store';
 
 import 'antd/dist/antd.css';
-import { Store } from 'tough-cookie';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
